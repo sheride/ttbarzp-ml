@@ -7,3 +7,4 @@ data/sig_m1TeV.npy
 data/sig_m350GeV.npy
 data/bg.npy
 data/train1.npy
+*.npy
