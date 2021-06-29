@@ -7,4 +7,5 @@ We embark on a collider phenomenology program investigating the `p p > t t~ Z'` 
 The difficulty that arises in discriminating signal from background (which include, e.g., `p p > t t~ h` and `p p > t t~ t t~`) motivates the use of machine learning methodologies. This github repository documents code developed and employed to study this binary classification problem, focusing on the `Z' > b b~` semihadronic-semileptonic channel.
 
 [1] LHCb collaboration, et al. "Test of lepton universality in beauty-quark decays." (2021).
+
 [2] Abi, B. et al. "Measurement of the Positive Muon Anomalous Magnetic Moment to 0.46 ppm". Phys. Rev. Lett. 126. (2021): 141801.
